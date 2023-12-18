@@ -46,3 +46,10 @@ FIM is a Python script designed for real-time tracking of file changes within sp
   - ignore_list: Comma-separated list of files/folders to ignore.
   - max_file_size: Maximum file size to monitor (in bytes).
   - allowed_extensions: Comma-separated list of allowed file extensions.
+    
+**Logging Settings**:
+  - log_file: Log file name/path.
+  - log_level: Logging level (INFO, WARNING, ERROR).
+
+**Security Settings**:
+  - monitor_integrity_hash: MD5 hash of the main.py script.
