@@ -53,3 +53,30 @@ FIM is a Python script designed for real-time tracking of file changes within sp
 
 **Security Settings**:
   - monitor_integrity_hash: MD5 hash of the main.py script.
+    
+### Usage
+Run the main.py script to initiate the monitoring process:
+```bash
+python main.py
+```
+
+### Example Configuration
+```ini
+[Monitoring]
+folder_paths = C:\Users\your_username\Documents\Project
+hash_algorithm = md5
+scan_interval = 1
+ignore_list = test.file
+max_file_size = 10485760
+allowed_extensions = .txt, .log
+
+[Logging]
+log_file = monitor.log
+log_level = INFO
+
+[Security]
+monitor_integrity_hash = 829ee92738a92f8e49186c849df6c965
+```
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
