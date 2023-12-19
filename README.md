@@ -18,6 +18,9 @@ FIM is a Python script designed for real-time tracking of file changes within sp
 ### Config file preparation
 ![](https://github.com/s4crifice/FIM/blob/main/preparation.gif)
 
+### Calculating hash
+![](https://github.com/s4crifice/FIM/blob/main/hash.gif)
+
 ### Running script and demonstrating it's functionality
 ![](https://github.com/s4crifice/FIM/blob/main/demo.gif)
 
