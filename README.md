@@ -22,7 +22,7 @@ FIM is a Python script designed for real-time tracking of file changes within sp
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/fim.git
+   git clone https://github.com/s4crifice/fim.git
    ```
 
 2. Run the hash.py program to calculate the MD5 hash of the main.py script:
