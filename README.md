@@ -25,18 +25,13 @@ FIM is a Python script designed for real-time tracking of file changes within sp
    git clone https://github.com/your_username/fim.git
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the hash.py program to calculate the MD5 hash of the main.py script:
+2. Run the hash.py program to calculate the MD5 hash of the main.py script:
    ```bash
    python hash.py
    ```
-4. Update the monitor_integrity_hash in config.ini with the calculated MD5 hash.
+3. Update the monitor_integrity_hash in config.ini with the calculated MD5 hash.
 
-5. Customize the config.ini file to meet your monitoring requirements.
+4. Customize the config.ini file to meet your monitoring requirements.
 
 ### Configuration
 **Monitoring Settings**:
