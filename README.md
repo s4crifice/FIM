@@ -13,6 +13,14 @@ FIM is a Python script designed for real-time tracking of file changes within sp
 - **Logging:** Log events with different levels (INFO, WARNING, ERROR) to a specified file.
 - **Security Measures:** Ensure integrity with hash-based integrity checks on the monitor script.
 
+## Demonstration
+
+### Config file preparation
+![](https://github.com/s4crifice/FIM/blob/main/preparation.gif)
+
+### Running script and demonstrating it's functionality
+![](https://github.com/s4crifice/FIM/blob/main/demo.gif)
+
 ## Getting Started
 
 ### Prerequisites
